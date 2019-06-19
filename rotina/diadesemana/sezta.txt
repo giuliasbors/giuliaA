@@ -1,0 +1,4 @@
+festa 
+sair
+aula
+comer
